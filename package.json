@@ -2,6 +2,9 @@
   "name": "webtesting-intro",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
   "repository": "https://github.com/dislersd/webtesting-intro.git",
   "author": "dislersd <dislersd@gmail.com>",
   "license": "MIT",
