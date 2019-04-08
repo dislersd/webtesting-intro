@@ -2,7 +2,13 @@
   "name": "webtesting-intro",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --verbose"
+  },
   "repository": "https://github.com/dislersd/webtesting-intro.git",
   "author": "dislersd <dislersd@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
 }
