@@ -1,0 +1,8 @@
+{
+  "name": "webtesting-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dislersd/webtesting-intro.git",
+  "author": "dislersd <dislersd@gmail.com>",
+  "license": "MIT"
+}
